@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "question": "He answered ***honestly***.",
+    "options": [
+      "Noun",
+      "Adjective",
+      "Adverb",
+      "None of Above"
+    ],
+    "correct": "Adverb",
+    "exp": "उसले answer दियो तर कसरी? - honestly (ईमानदारीका साथ) ।"
+  },
+  {
+    "id": 2,
+    "question": "The ***green*** dragon kills other animals.",
+    "options": [
+      "Noun",
+      "Adjective",
+      "Preposition",
+      "None of Above"
+    ],
+    "correct": "Adjective",
+    "exp": " Dragon ले अरु जनावर मार्छ तर कस्तो dragon ले? - हरियो ।"
+  },
+  {
+    "id": 3,
+    "question": "***Wow!*** This place is beautiful.",
+    "options": [
+      "Interjection",
+      "Preposition",
+      "Conjunction",
+      "None of Above"
+    ],
+    "correct": "Interjection",
+    "exp": "खुशी व्यक्त गरेको ले ।"
+  },
+  {
+    "id": 4,
+    "question": "He bought a ***television***.",
+    "options": [
+      "Interjection",
+      "Preposition",
+      "Conjunction",
+      "None of Above"
+    ],
+    "correct": "None of Above",
+    "exp": "Television भनेको वस्तु हो । यो Noun हो ।"
+  },
+  {
+    "id": 5,
+    "question": "Wait for me ***until*** I get there.",
+    "options": [
+      "Interjection",
+      "Preposition",
+      "Conjunction",
+      "Adverb"
+    ],
+    "correct": "Conjunction",
+    "exp": "'Wait for me' र 'I will get there' दुईटा वाक्यलाई जोडेकोले ।"
+  },
+  {
+    "id": 6,
+    "question": "Cars were too expensive ***until*** now.",
+    "options": [
+      "Interjection",
+      "Preposition",
+      "Conjunction",
+      "Adverb"
+    ],
+    "correct": "Preposition",
+    "exp": "कुनै वाक्यलाई नजोडि नेपालीमा निपात 'सम्म' को जस्तै काम गरेकाले ।"
+  },
+  {
+    "id": 7,
+    "question": "What is the ***trouble***?",
+    "options": [
+      "Noun",
+      "Adverb",
+      "Verb",
+      "None of Above"
+    ],
+    "correct": "Noun",
+    "exp": "Trouble = समस्या । एउटा अमुर्त विचार भएकाले ।"
+  },
+  {
+    "id": 8,
+    "question": "They received Rs. 10 ***each***.",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Conjunction",
+      "None of Above"
+    ],
+    "correct": "Adverb",
+    "exp": "each ले receive गर्ने Verb लाई वर्णन गरेकोले । सबैले १०-१० रु पाए।"
+  },
+  {
+    "id": 9,
+    "question": "The dog is a fool. ***It*** bites its own ***tail***.",
+    "options": [
+      "Pronoun/Verb",
+      "Verb/Averb",
+      "Pronoun/Pronoun",
+      "Pronoun/Noun"
+    ],
+    "correct": "Pronoun/Noun",
+    "exp": "It ले dog लाई जनाएको र tail उसकै पुुच्छर भएकाले ।"
+  }
+]

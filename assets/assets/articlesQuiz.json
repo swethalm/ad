@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "question": "There is ____ University in my town.",
+    "options": ["an", "a", "some", "None of Above"],
+    "correct": "a",
+    "exp": "यूनिभर्सिटि consonant sound वाट सुरु हन्छ र singular छ ।"
+  },
+  {
+    "id": 2,
+    "question": "There is an orange in the table. ____ orange is ripe.",
+    "options": ["an", "a", "the", "None of Above"],
+    "correct": "the",
+    "exp": "टेबलमा भएको orange नै पाकेको छ कुनै अरु orange हैन ।"
+  },
+  {
+    "id": 1,
+    "question": "___ people are selfish.",
+    "options": ["The", "a", "some", "None of Above"],
+    "correct": "some",
+    "exp": "people भन्नाले कुनै विशेष समूहलाई नजनाई अनिश्चित समूहलाई जनाएको छ। people=plural"
+  }
+]

@@ -1,0 +1,231 @@
+**Parts of Speech** भन्नाले पदवर्ग हो । वाक्यमा कुन शब्दले कुन किसिमको भुमिका निर्वाह गर्छ त्यो नै Parts of Speech हो ।
+
+Parts of Speech यस प्रकार छन्:
+
+**1. Noun (****नामपद****):**
+
+Noun भनेको केहि वस्तु, कोहि व्यक्ति, कुनै भाव वा स्थान जनाउने शब्द हुन् ।
+
+*जस्तै**:*
+
+-   man => मान्छे । यस्ले कुनै व्यक्तिलाई जनाउँछ
+
+-   house => घर । यस्ले कुनै वस्तुलाई जनाउँछ
+
+-   happiness => खुशी । यस्ले एउटा भावलाई जनाउँछ
+
+-   Kathmandu => काठमाडौं । यस्ले एउटा ठाँउलाई जनाउँछ
+
+*Examples:*
+
+-   The young **girl** brought me **flowers**. (girl => कोहि केटि, व्यक्ति, flowers => फूल, वस्तु)
+
+-   I will send you a **letter**. (letter => चिठि, वस्तु)
+
+-   The **teacher** teaches us English. (teacher => शिक्षक, कोहि व्यक्ति)
+
+-   I found **joy** in **Pokhara**. (joy => हर्ष, भावना, Pokhara => ठाँउ)
+
+**2. Pronoun (****सर्वनाम****):**
+
+Pronoun भनेको नामको सट्टामा प्रयोग हुने शब्द हुन् ।
+
+*जस्तै**:*
+
+-   He => उ
+
+-   She => उनि
+
+-   They => उनिहरु
+
+-   It => त्यो/यो
+
+*Examples:*
+
+-   **Ram** is tall. **He** is also honest. (He ले Ram लाई जनाएको छ)
+
+-   **The rat** is small. **It** is ugly. (it ले rat लाई जनाएको छ)
+
+**3. Verb (****क्रियापद****):**
+
+Verb भनेको केहि काम भएको जनाउने शब्दहरु हुन् ।
+
+*जस्तै**:*
+
+-   to jump => उफ्रिनु ।
+
+-   to run => कुद्नु ।
+
+-   to be => हुनु ।
+
+-   to eat => खानु ।
+
+*Examples:*
+
+-   I **sang** a song. (sang ‍=> गाउने काम)
+
+-   The rabbit **jumps** very high. (jump => उफ्रिने काम)
+
+-   The house **is** destroyed. (is => हुनु)
+
+-   Ram will be **going** to Kathmandu. (going => जानु)
+
+**4. Adjective (****विशेषण****):**
+
+Adjective भनेको Noun/Pronoun को विशेषता जनाउने शब्द हुन् । यी शब्दहरुले Noun/Pronoun को बारे थप जानकारी दिन्छन् ।
+
+*जस्तै**:*
+
+-   big => ठुलो ।
+
+-   tall => अग्लो ।
+
+-   cheap => सस्तो ।
+
+-   good => राम्रो ।
+
+*Examples:*
+
+-   I like **tall** houses. ( मलाई घरहरु मन पर्छ तर कस्तो घर? - अग्लो ।)
+
+-   The **pretty** girl danced. (केटि नाची तर कस्ती केटि? - सुन्दर)
+
+-   The **long** way is scary. (बाटो डरलाग्दो छ तर कस्तो बाटो? - लामो)
+
+-   The old man is tired. (मान्छे थाकेको छ तर कस्तो मान्छे? - बुढो)
+
+*याद रहोस् कि यी शब्दहरुले* ***Nouns** ****को वर्णन** गरीरहेका छन् ।*
+
+**5. Adverb (****क्रियाविशेषण****):**
+
+Adverb भनेको क्रिया वा विशेषण वा अर्को क्रियाविशेषणको विशेषता जनाउने शब्द हुन् । यी शब्दले कुनै काम कसरी हुँदै छ भनेर जानकारी दिन्छन् ।
+
+*जस्तै**:*
+
+-   slowly => बिस्तारै
+
+-   quickly => छिट्टै
+
+-   very => धेरै
+
+-   carefully => होसियारीपुर्व
+
+*Examples:*
+
+-   He ran **quickly**. (उ कुद्यो तर कसरी कुद्यो? - छिटोछिटो) (to run verb लाई वर्णन)
+
+-   I wrote a **very** long letter. (मैले चिठि लेखें तर कस्तो चिठि? - लामो मात्र होइन धेरै लामो) (long adjective को वर्णन)
+
+-   They fell in love **slowly**.(उनीहरु प्रेममा परे तर कसरी? - बिस्तारै ) (to fall verb को वर्णन)
+
+**6. Preposition (****निपात****):**
+
+Preposition ले Noun/Pronoun अगाडि लागेर वाक्यका दुई वा बढि भागहरुलाई जोड्ने काम गर्छन् ।
+
+*जस्तै**:*
+
+-   by
+
+-   with
+
+-   about
+
+-   until
+
+*Examples:*
+
+-   I came **by** bus.
+
+-   I received money **from** the company.
+
+-   He told her a story **about** lions.
+
+**7. Conjunction:**
+
+Conjunction ले दुई वा बढि वाक्यलाई जोडेर एउटै बनाउने काम गर्छन् ।
+
+*जस्तै**:*
+
+-   and => र
+
+-   then => अनि
+
+-   therefore => त्यसैले
+
+-   as long as => जबसम्म
+
+*Examples:*
+
+-   The ants ate **and** disappeared.
+
+-   We are rich, **therefore**, we travel a lot.
+
+**8. Interjection:**
+
+Interjection ले भावना दर्शाउँछन् ।
+
+*जस्तै**:*
+
+-   Oh!
+
+-   Wow!
+
+-   Oops!
+
+*Examples:*
+
+-   **Wow!** Very pretty.
+
+-   **Oops!** I fell.
+
+**Solved Exercises:**
+
+*1\. The young girl brought me a very long letter from the teacher, and then she quickly disappeared. Oh my!*
+
+=> सानी केटिले मलाई शिक्षकले पठाएको लामो चिठि ल्याइदिइ र त्यसपछि उ छिट्टै गइहाली । राम राम !
+
+Parts of speech:
+
+**The girl** = Noun (मान्छेलाई जनाउने)
+
+**young** = Adjective (कस्तो केटि? Noun लाई वर्णन गरेको)
+
+**brought** = Verb (ल्याउने काम भएको छ)
+
+**me** = Pronoun (मान्छेको नामको सट्टा प्रयोग भएको)
+
+**a letter** = Noun (वस्तु लाई जनाएको)
+
+**long** = Adjective (कस्तो चिठि? लामो । Noun लाई वर्णन गरेको)
+
+**very** = Adverb (चिठि लामो त लामो तर कति लामो? धेरै । long भन्ने adjective लाई वर्णन गरेको)
+
+**from** = Interjection
+
+**the teacher** = Noun
+
+**and**  **then** = Conjunction
+
+**she** =Pronoun
+
+**disappeared** = Verb
+
+**quickly** = Adverb (कसरी disappear भको? - quickly)
+
+**Oh My!** = Interjection
+
+*2. The quick brown fox jumped over the lazy dog.*
+
+**The fox** = Noun
+
+**quick** = Adjective
+
+**brown** = Adjective (यहाँ quick र brown दुवैले fox लाई वर्णन गरेको छ)
+
+**jumped** = Verb
+
+**over** = Preposition
+
+**the dog** = Noun
+
+**lazy** = Adjective
